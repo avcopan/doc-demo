@@ -1,16 +1,10 @@
-.. docs-demo documentation master file, created by
-   sphinx-quickstart on Mon May 17 17:31:24 2021.
+.. doc-demo documentation master file, created by
+   sphinx-quickstart on Tue May 18 13:17:44 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to docs-demo's documentation!
-=====================================
-
-Some text here.
-
-Some more text here.
-
-More text here.
+Welcome to doc-demo's documentation!
+====================================
 
 There's a table of contents after this.
 
@@ -21,7 +15,6 @@ There's a table of contents after this.
    hilib_docs
    byelib_docs
    tutorial
-
 
 
 Indices and tables
